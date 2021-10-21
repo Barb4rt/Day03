@@ -1,0 +1,2 @@
+cat histoire.txt | tr ' ' '\n'  | sort -r  | uniq -c
+
