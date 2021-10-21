@@ -1,0 +1,2 @@
+0 8 * * 1-5  curl wttr.in/batman > ~/Bureau/Day03/Ex03/meteo/meteoOfDay.txt
+
